@@ -1,4 +1,4 @@
-#!/usr/bin/python3.1
+#!/usr/bin/python3.2
 # anti-docx, a .docx-to-text converter written by Albin Stjerna
 #
 # Please, feel free to do what you want with this code. It is way too short
